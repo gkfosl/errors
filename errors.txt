@@ -1,0 +1,17 @@
+Ошибка первая: точка в конце заголовка 
+неправильный вариант:Version 5.8.1.
+правильный вариант: Version 5.8.1
+
+Ошибка вторая: длина заголовка 50 символов
+неправильный вариант:Beta version 5.7.4.
+- Enable auto night mode by default.
+- Use muted chats folder badge in horizontal strip.
+- Fix custom userpic context menu in comments and topics.
+- Fix scrolling of chats folders together with the list.
+- Fix chats folders list disappearing in some cases.
+- Fix topic groups in share box with chats folders.
+- Fix bot commands list in some groups.
+- Fix crash in channel short info box display.
+- Fix crash in bot monetization section opening.
+- Fix crash in bot sponsored messages destruction.
+правильный вариант: Beta version 5.7.4.
